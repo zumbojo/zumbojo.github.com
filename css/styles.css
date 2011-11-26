@@ -111,6 +111,7 @@ h3{
   text-transform: uppercase;
   margin: 10px 0 20px 0;
 }
+/*
 #header #zach{
   padding-left: 1px;
   font-size: 23px;
@@ -125,6 +126,15 @@ h3{
   font-weight: bold;
   letter-spacing: 1px;
   color: #000;
+}
+*/
+#header #firstname {
+  letter-spacing: 0.12em;
+  color: #000;
+}
+#header #lastname {
+  letter-spacing: 1px;
+  color: grey;
 }
 #header .site{
 }
